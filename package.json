@@ -1,0 +1,28 @@
+{
+    "name": "hassanreact",
+    "version": "7.0.0",
+    "homepage": "https://github.com/hassan-devDz/primereact-master",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hassan-devDz/primereact-master.git"
+    },
+    "license": "MIT",
+
+    "keywords": [
+        "primereact",
+        "react",
+        "ui framework",
+        "component framework",
+        "ui library",
+        "component library",
+        "material",
+        "bootstrap",
+        "react components",
+        "responsive components"
+    ],
+    "peerDependencies": {
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1"
+    },
+    "unpkg": "hassanreact.all.min.js"
+}
